@@ -129,6 +129,8 @@ acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 acestream://0e5d8c9724fa9163f49096b70484e315251eb785
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Cine%20Western.png" tvg-id="" group-title="MOVISTAR", MOVISTAR WESTERN FHD --> NEW ERA VI
 acestream://e740a34497c3ba5943613a06999e805e6bbfa159
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NEW ERA
+acestream://cd0188292b6b3876ff66c99bd3d25eab88b41079
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Onetoro.png?raw=true" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO --> NEW ERA III
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/TVG%20Europa%20HD.png" tvg-id="TVG Europa HD" group-title="MOVISTAR", TVG EUROPA HD --> NEW ERA
