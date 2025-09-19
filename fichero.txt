@@ -28,8 +28,6 @@ acestream://6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/comedia-por-movistar-plus-es.png" tvg-id="M+ Comedia HD" group-title="MOVISTAR", MOVISTAR COMEDIA FHD --> NEW ERA VI
 acestream://cf0cb321eed6765c2eadbd9983570f6674ce5df6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA
-acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA
 acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA
 acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
@@ -41,8 +39,6 @@ acestream://3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES SD --> ELCANO
 acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES HD --> NEW LOOP
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD --> NEW ERA
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD --> NEW ERA
@@ -297,10 +293,6 @@ acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
 acestream://1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="HYPERMOTION", HYPERMOTION 3 --> ELCANO
 acestream://778d2f60bb7207addedcca0b9aed98f41529724e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", COPA DEL REY --> NEW ERA
-acestream://4b9f813f30b4345fe555f9e218d828d76cd6ee88
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", COPA DEL REY --> NEW ERA
-acestream://63ad519ec9602ea12f7867cf15914b2537bbf04a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD --> NEW ERA
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD --> NEW ERA
@@ -339,12 +331,12 @@ acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 acestream://ea6dd2fbd792fe4fb5d372f5d8b84d03792e6e7a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 --> NEW LOOP
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ --> NEW LOOP
+acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> NEW LOOP
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> NEW LOOP
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> NEW LOOP
-acestream://06fd695a8353f40d6586db7c778a5862554c09d1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> NEW LOOP
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="FUTBOL INT", BT Sport 2 [UK] --> NEW LOOP
@@ -397,6 +389,8 @@ acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
 acestream://651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="DE | Rally TV" group-title="MOTOR", RALLY TV --> NEW ERA III
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", RETROVISION MOTOR --> NEW LOOP
+acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT", ANTENA 3 FHD --> NEW ERA
 acestream://f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD --> NEW ERA
@@ -418,6 +412,8 @@ acestream://9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="TDT", LA SEXTA FHD --> NEW ERA
 acestream://44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD" group-title="TDT", TELECINCO FHD --> NEW ERA
+acestream://3e7b1911a1f83fd869b6995650a3057778259ca7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD" group-title="TDT", TELECINCO FHD --> NEW ERA
 acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD" group-title="TDT", TELECINCO FHD --> ELCANO
 acestream://3d376333ee90d6db3d413fc5764ef635882076f5
@@ -425,8 +421,6 @@ acestream://3d376333ee90d6db3d413fc5764ef635882076f5
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="TDT", TELEDEPORTE FHD --> NEW ERA
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="" group-title="EVENTOS", DAZN EVENTOS 1 --> NEW ERA
-acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="" group-title="EVENTOS", DAZN EVENTOS 2 --> NEW ERA
 acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="" group-title="EVENTOS", DAZN EVENTOS 3 --> NEW ERA
@@ -449,8 +443,6 @@ acestream://ade70f2c51cca519a4d8de1bb181af6e8532e1e1
 acestream://4b18a3b32df5960ed950fa907f8d509b1ad2a188
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MIXED TV (solo eventos) --> NEW ERA III
 acestream://eb25ebc41fc51710b098f860b33b3229d11921b3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" tvg-id="Motorvision tv" group-title="OTROS", MOTORVISION --> NEW LOOP
-acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR COMIC FHD --> NEW ERA VI
 acestream://4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Sport%20NBA.png?raw=true" tvg-id="Sport NBA" group-title="OTROS", NBA TV --> NEW ERA
@@ -463,8 +455,6 @@ acestream://b40212c43e96e97542ea00f2129212a054853a57
 acestream://7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" group-title="OTROS", S SPORT 1 FHD --> NEW ERA
 acestream://6ad87abc93cc3c8508be327e313afcd3aa37ec0b
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="OTROS", SKY SPORTS ARENA --> NEW LOOP
-acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Cricket.png" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", SKY SPORTS CRICKET --> NEW LOOP
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Ten TV FHD --> NEW ERA
@@ -473,6 +463,10 @@ acestream://19cab799c86251ae8ae5f4b4faace9b78d784abc
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD --> NEW ERA
 acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL --> NEW LOOP
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/TNT%20Sports%201.png?raw=true" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", TNT SPORTS HD --> NEW ERA
 acestream://5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: beIN Sports 4 FHD --> NEW ERA
