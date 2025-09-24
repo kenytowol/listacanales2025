@@ -235,18 +235,6 @@ acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 acestream://a0464d3642e054f6122e7c309017d1e8d23f4da9
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS" group-title="DAZN", FOX SPORT MX --> NEW ERA
 acestream://90d101676ec61e02e7f77b489f0981e9dd815eda
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> NEW ERA
-acestream://1a63d886860e2b770590dcd64a4dd472eabb841d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA
-acestream://6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA
-acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA
-acestream://515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA
-acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA
-acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA II
 acestream://b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA VI
@@ -411,8 +399,6 @@ acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 acestream://b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", REAL MADRID TV HD --> NEW ERA
 acestream://7a955964c91c66311eef9137a96332352dbb891e
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", rtmp
-acestream://c061e237413ef8410338ebd82eb6dae80678773f
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="OTROS", SKY SPORTS ARENA --> NEW LOOP
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Cricket.png" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", SKY SPORTS CRICKET --> NEW LOOP
