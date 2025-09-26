@@ -2,7 +2,7 @@
 #EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/24%20Horas%20HD.png" tvg-id="24 Horas" group-title="MOVISTAR", 24 HORAS HD --> NEW ERA
-acestream://cc5ed178702605513cd18b4899c4be954d306cca
+acestream://e6b9531cd1d7d9715aa9c5fa8bb24eb46e5b71c1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" group-title="MOVISTAR", CAZA Y PESCA FHD HD --> NEW ERA III
 acestream://277a6fb47189db801c5b7b05ad89c690571f3e9c
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport3%20Catalunya.png?raw=true" tvg-id="Esport 3" group-title="MOVISTAR", ESPORT 3 FHD --> NEW ERA
@@ -75,8 +75,12 @@ acestream://594b59d435527327c9b6965f247995b907bfc285
 acestream://5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF FHD --> NEW ERA
 acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF FHD --> NEW ERA
+acestream://9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF FHD --> NEW ERA VI
 acestream://9ed46050217ee6ed8236a64b72d7992f7b3b37f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png" tvg-id="M+ Golf 2 HD" group-title="MOVISTAR", MOVISTAR GOLF 2 FHD --> NEW ERA
+acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Hits.png" tvg-id="M+ Hits HD" group-title="MOVISTAR", MOVISTAR HITS FHD --> NEW ERA VI
 acestream://50553edb5e8c54d15e0d43161369b3b4cef95065
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Indie%20HD.png" tvg-id="M+ Indie HD" group-title="MOVISTAR", MOVISTAR INDIE FHD --> NEW ERA VI
@@ -379,12 +383,18 @@ acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 acestream://4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR FESTIVAL DE SAN SEBASTIAN FHD --> NEW ERA VI
 acestream://cf99e99c105162410ec6d1f68cc6f4811560fee7
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Primera Federación FHD  --> NEW ERA
+acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Primera Federación FHD --> NEW ERA
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", PRIMERA FEDERACIÓN FHD --> NEW ERA VI
 acestream://b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="OTROS", SKY SPORTS ARENA --> NEW LOOP
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Cricket.png" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", SKY SPORTS CRICKET --> NEW LOOP
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Ten TV FHD --> NEW ERA
+acestream://19cab799c86251ae8ae5f4b4faace9b78d784abc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL FHD --> NEW ERA
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD --> NEW ERA
