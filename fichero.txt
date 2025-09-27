@@ -37,6 +37,8 @@ acestream://3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES SD --> ELCANO
 acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES HD --> NEW LOOP
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD --> NEW ERA
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD --> NEW ERA
@@ -322,6 +324,8 @@ acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 FHD --> NEW ERA
 acestream://690f0f15439c773017ace3b6979c6e518d865454
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 --> NEW LOOP
+acestream://186a997787dcdb76f1b17e4dd5c55910d4847fa7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 --> NEW LOOP
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 --> NEW LOOP
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
@@ -337,8 +341,6 @@ acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 acestream://927996b8192c7cc6bf768d52528c8e4198294328
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="FUTBOL INT", BT Sport 2 [UK] --> NEW LOOP
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] --> NEW LOOP
-acestream://22fead867a8657cfb58cd84245e18954ab199db3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] --> NEW LOOP
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 --> NEW LOOP
@@ -379,8 +381,6 @@ acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="" group-title="MOTOR", AUTOMOTORSPORT HD --> NEW LOOP
 acestream://610993aea3a2bfd509594334b7461ce96900f54c
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", CANAL MOTOR --> NEW LOOP
-acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", MOTORS TV HD --> NEW LOOP
 acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="DE | Rally TV" group-title="MOTOR", RALLY TV FHD --> NEW ERA
@@ -457,8 +457,6 @@ acestream://ade70f2c51cca519a4d8de1bb181af6e8532e1e1
 acestream://4b18a3b32df5960ed950fa907f8d509b1ad2a188
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MIXED TV (solo eventos) --> NEW ERA III
 acestream://eb25ebc41fc51710b098f860b33b3229d11921b3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" tvg-id="Motorvision tv" group-title="OTROS", MOTORVISION --> NEW LOOP
-acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR COMIC FHD --> NEW ERA VI
 acestream://4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR FESTIVAL DE SAN SEBASTIAN FHD --> NEW ERA VI
