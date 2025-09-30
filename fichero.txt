@@ -719,8 +719,6 @@ acestream://ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
 acestream://65707378011c08c27dca1f0162d545f369756c5f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", EuroNews [RU] (regional)
 acestream://837edb9f5dab770965ddbd1b1f9f1ef55305d10d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top --> NEW LOOP
-acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport2720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top --> NEW LOOP
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", FAN [RU] (kids)
