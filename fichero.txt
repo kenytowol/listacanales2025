@@ -136,8 +136,6 @@ acestream://e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS FHD --> NEW ERA
 acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS FHD --> NEW ERA
-acestream://2940120bf034db79a7f5849846ccea0255172eae
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS FHD --> NEW ERA
 acestream://651d6be899d1fafa107a265a9dc00ff914c1b548
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS FHD --> NEW ERA VI
 acestream://4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
@@ -781,6 +779,8 @@ acestream://a435581e6cba56972e48cf4519d1b2af735eec2f
 acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Russian Extreme Ultra [RU] (regional)
 acestream://9214a597a38ed669aba1fe73351a580b1a77ce6e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" group-title="OTROS", S SPORT 1 FHD --> NEW ERA
+acestream://6ad87abc93cc3c8508be327e313afcd3aa37ec0b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SAT1 GOLD [DE] (regional)
 acestream://80db6eb9c3c0da5ddf03e2912e502a1ff8927f8b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sat.1 HD [DE] (regional)
