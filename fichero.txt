@@ -520,8 +520,6 @@ acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DARK HD --> NEW ERA III
 acestream://25465ea2deba65c623b7659136abf6fcc9f5dc20
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN PVV --> NEW ERA
-acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN PVV --> NEW ERA
 acestream://34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN_LaLiga_FHD --> NEW LOOP
 acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b
