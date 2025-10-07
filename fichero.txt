@@ -174,9 +174,9 @@ acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW LOOP
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW LOOP
-acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW LOOP
 acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW LOOP
+acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DAZN 1 BAR" group-title="DAZN", DAZN 1 BAR FHD --> NEW ERA
@@ -330,6 +330,8 @@ acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 FHD --> NEW ERA
 acestream://f0951d40eb84162014752c054ea7a1370d2169eb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 --> NEW LOOP
+acestream://a96a9a6ab8f4f624d66ece9fa566a5620ddd620d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 --> NEW LOOP
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
@@ -357,6 +359,8 @@ acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK]
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="FUTBOL INT", BT Sport 2 [UK] --> NEW LOOP
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="FUTBOL INT", BT Sport 2 [UK]
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] --> NEW LOOP
@@ -435,12 +439,8 @@ acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.nl" group-title="FUTBOL INT", ZIGGO SPORT
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.2.nl" group-title="FUTBOL INT", ZIGGO SPORT 2 --> NEW LOOP
-acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.2.nl" group-title="FUTBOL INT", ZIGGO SPORT 2
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 --> NEW LOOP
-acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", CANAL MOTOR --> NEW LOOP
@@ -532,9 +532,9 @@ acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga2 SD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top --> NEW LOOP
 acestream://c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top --> NEW LOOP
-acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top --> NEW LOOP
 acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top --> NEW LOOP
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga SD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top --> NEW LOOP
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", E! [DE] (regional)
@@ -625,14 +625,10 @@ acestream://d8dde4a3b7964a19f144c5ac4c516933831ce782
 acestream://b69ee17ee716edaabd5dd32934c71be4d23736a8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", nSport+ [PL] (regional)
 acestream://5f595b1bbade5e7c915d99f90645f4c30d4ba540
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Orange TV --> NEW LOOP
-acestream://abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ORF III [DE] (regional)
 acestream://41ac7892b8fde95d5110d83d7324044145c7f86a
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ORF SPORT+ HD [DE] (regional)
 acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Pluto TV Auto Motor Sport (720p) --> NEW LOOP
-acestream://ffa09e597804001f634dd1829f031823411a2595
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport [PL] (regional)
 acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport Extra [PL] (regional)
