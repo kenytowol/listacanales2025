@@ -579,6 +579,8 @@ acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sport Klub (PL) Sport_TV_28 --> NEW ERA
 acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
+acestream://b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD (ES) Sport_TV_28 --> NEW ERA
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: beIN Sports 4 FHD --> NEW ERA
