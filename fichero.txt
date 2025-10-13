@@ -767,5 +767,3 @@ acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 acestream://314eb626864faf52e01624361bd6906b5406127f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL --> NEW LOOP
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL HD --> NEW LOOP
-acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
